@@ -5,9 +5,6 @@
  - [日常命令](Linux/section1.md)
 * [Python](Python/README.md)
  - [学习爬虫](Python/section1.md)
-* [PHP](PHP/README.md)
- - [问题列表](PHP/section1.md)
-
 
 
 
