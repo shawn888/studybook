@@ -1,7 +1,7 @@
  ### 要点
  `
     package main
-    
+        
     import "fmt"
     
     func add(x, y int) int {
