@@ -13,5 +13,5 @@ atop    在...上面
 limitations    局限性,因素
 determining    决定
 Congratulations    祝贺,恭喜
-convention 按照惯例   ，例：By convention 按照惯例
-omit    省略
+convention 按照惯例  ,例：By convention 按照惯例
+omit    省略,遗漏,删除，疏忽
