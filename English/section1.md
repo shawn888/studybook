@@ -6,4 +6,6 @@ compile    编译
 remote    远程
 below    在...下面
 demonstrate    证明
-different    不同的,个别的
+different    不同的,个别的,与众不同的
+
+
