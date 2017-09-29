@@ -2,13 +2,9 @@
 
 * [介绍](README.md)
 * [Linux](Linux/README.md)
- - [日常命令](Linux/section1.md)
+  * [日常命令](Linux/section1.md)
 * [Python](Python/README.md)
- - [学习爬虫](Python/section1.md)
-
-
-
-
-
-
+  * [学习爬虫](Python/section1.md)
+* [英语学习](Python/README.md)
+  * [学习爬虫](Python/section1.md)
 
