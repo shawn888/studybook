@@ -5,6 +5,6 @@
   * [日常命令](Linux/section1.md)
 * [Python](Python/README.md)
   * [学习爬虫](Python/section1.md)
-* [英语学习](Python/README.md)
-  * [学习爬虫](Python/section1.md)
+* [英语学习](English/README.md)
+  * [单词](English/section1.md)
 
