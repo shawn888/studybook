@@ -1,6 +1,6 @@
  ### 要点
  `
-     package main
+    package main
     
     import "fmt"
     
