@@ -1,1 +1,2 @@
 - ls -ltr *php 显示过滤文件
+- find ./ -type f -name "*.php" | xargs grep "function redirect" 搜索文件内容
