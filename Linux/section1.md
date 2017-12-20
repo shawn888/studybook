@@ -6,7 +6,15 @@ ls -ltr *php
 ```
 find ./ -type f -name "*.php" | xargs grep "function redirect" 
 ```
-- 批量查找替换
+- 查看tcp三次握手情况
 ```
-mac下 sed -i '' "s/preg_replace_callback_callback/preg_replace_callback/g" `grep "preg_replace" -rl ./iwen_admin`
+netstat -antp
+```
+- 查看tcp发送包统计信息
+```
+ ss -s
+```
+- 查看前端机到域名的dns解析地址
+```
+  nslookup www.baidu.com
 ```
