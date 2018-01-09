@@ -17,4 +17,4 @@ netstat -antp
 - 查看前端机到域名的dns解析地址
 ```
   nslookup www.baidu.com
-```x
+```
