@@ -9,4 +9,6 @@
   * [要点记录](Go/section1.md)
 * [英语学习](English/README.md)
   * [单词](English/section1.md)
+* [工具](Tools/README.md)
+  * [黑科技](Tools/section1.md)
 
