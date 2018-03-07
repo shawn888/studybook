@@ -4,7 +4,6 @@
 * [Linux](Linux/README.md)
   * [日常命令](Linux/section1.md)
 * [Python](Python/README.md)
-  * [学习爬虫](Python/section1.md)
 * [Go](Go/README.md)
   * [要点记录](Go/section1.md)
 * [英语学习](English/README.md)
